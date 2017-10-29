@@ -2,6 +2,10 @@
 
 Install elixir and erlang.
 
+# Index currently
+
+- GenServer
+
 # Run it
 
 ```console

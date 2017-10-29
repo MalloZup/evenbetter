@@ -1,4 +1,7 @@
-# GenServer elixir/erlang.
+# Index
+[GenServer Elixir Erlang](#genserver)
+
+# geneserver.
 
 http://erlang.org/doc/design_principles/gen_server_concepts.html
 
