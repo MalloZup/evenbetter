@@ -1,21 +1,9 @@
-# Evenbetter
+# Elixir basic scripts for learnig purposes.
 
-**TODO: Add description**
+Install elixir and erlang.
 
-## Installation
+# Run it
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `evenbetter` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:evenbetter, "~> 0.1.0"}
-  ]
-end
+```console
+elixir genserver_sample.ex 
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/evenbetter](https://hexdocs.pm/evenbetter).
-
